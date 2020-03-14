@@ -1,3 +1,2 @@
 this is test project
-local relate remote is adjust
-local relate remote is adjust to git protocal
+end in explore tar1dev,merge master
